@@ -1,2 +1,2 @@
 # BlinkStickService
-Simple Windows service allowing to control BlinkStick (blinkstick.com) via HTTP requests
+A Simple Windows service allowing to control [BlinkStick](https://www.blinkstick.com/) via HTTP requests
